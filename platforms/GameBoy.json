@@ -4,7 +4,7 @@
   "platform": {
     "name": "Game Boy",
     "uniqueId": "gb",
-    "shortname": "1998 - gb",
+    "shortname": "1989 - gb",
     "description": null,
     "acceptedFilenameRegex": "^(?!(?:\\._|\\.).*).*$",
     "scraperSourceList": [
